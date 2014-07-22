@@ -2,7 +2,7 @@
 % Skeleton drawn from Miwa Nakajo - October 24, 2009
 % Expanded & made a document class by Billy McCulloch.
 
-\ProvidesClass{tamu_presentation}[2011/03/11 v0.6 TAMU Presentation]
+\ProvidesClass{tamu_presentation}[2011/03/11 v0.6.0 TAMU Presentation]
 
 \RequirePackage{tamu_common}
 

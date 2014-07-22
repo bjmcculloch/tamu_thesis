@@ -1,7 +1,7 @@
 % -*- mode: LaTeX; -*-
 %%%% file tamu_thesis.cls
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{tamu_thesis}[2010/12/04 v0.5 TAMU Thesis]
+\ProvidesClass{tamu_thesis}[2014/07/22 v0.6.0 TAMU Thesis]
 
 \RequirePackage{tamu_common}
 
