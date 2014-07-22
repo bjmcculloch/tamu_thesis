@@ -1,0 +1,6 @@
+\ProvidesPackage{tamu_common}[2010/01/13 TAMU suite common macros]
+
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+% The following allows for the creation of an unnumbered footnote that does not increment the counter
+\newcommand{\blfootnote}[1]{{\let\thefootnote\relax\footnotetext{#1}}}
